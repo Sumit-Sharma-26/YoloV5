@@ -26,4 +26,4 @@ run in google colab
 
 ## Demo
 
-![App Screenshot](https://raw.githubusercontent.com/Sumit-Sharma-26/YoloV5-Object-Detection/main/Untitled1.png)
+![App Screenshot](https://raw.githubusercontent.com/Sumit-Sharma-26/YoloV5/main/Untitled1.png)
